@@ -1,0 +1,24 @@
+Mean inflammation of patients on Day 1 in inflammation-01.csv: 0.45000000
+Variance of inflammation of patients on Day 2 in inflammation-01.csv: 0.53638889
+Mean inflammation of patients on Day 1 in inflammation-02.csv: 0.50000000
+Variance of inflammation of patients on Day 2 in inflammation-02.csv: 0.66222222
+Mean inflammation of patients on Day 1 in inflammation-03.csv: 0.00000000
+Variance of inflammation of patients on Day 2 in inflammation-03.csv: 0.24305556
+Mean inflammation of patients on Day 1 in inflammation-04.csv: 0.46666667
+Variance of inflammation of patients on Day 2 in inflammation-04.csv: 0.61638889
+Mean inflammation of patients on Day 1 in inflammation-05.csv: 0.36666667
+Variance of inflammation of patients on Day 2 in inflammation-05.csv: 0.68083333
+Mean inflammation of patients on Day 1 in inflammation-06.csv: 0.45000000
+Variance of inflammation of patients on Day 2 in inflammation-06.csv: 0.62333333
+Mean inflammation of patients on Day 1 in inflammation-07.csv: 0.56666667
+Variance of inflammation of patients on Day 2 in inflammation-07.csv: 0.53222222
+Mean inflammation of patients on Day 1 in inflammation-08.csv: 0.00000000
+Variance of inflammation of patients on Day 2 in inflammation-08.csv: 0.24305556
+Mean inflammation of patients on Day 1 in inflammation-09.csv: 0.58333333
+Variance of inflammation of patients on Day 2 in inflammation-09.csv: 0.69416667
+Mean inflammation of patients on Day 1 in inflammation-010.csv: 0.60000000
+Variance of inflammation of patients on Day 2 in inflammation-010.csv: 0.68305556
+Mean inflammation of patients on Day 1 in inflammation-011.csv: 0.00000000
+Variance of inflammation of patients on Day 2 in inflammation-011.csv: 0.24305556
+Mean inflammation of patients on Day 1 in inflammation-012.csv: 0.51666667
+Variance of inflammation of patients on Day 2 in inflammation-012.csv: 0.70305556
