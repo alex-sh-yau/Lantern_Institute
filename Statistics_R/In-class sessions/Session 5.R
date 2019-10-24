@@ -85,3 +85,12 @@ legend("topleft",legend=c("no","yes"),title="nitrogen",fill=c("black","lightgrey
 # 
 # ggplot(aes(y = boxthis, x = nitrogenphosphorus), data = df) + geom_boxplot()
 
+
+# geometric mean
+insects = c(1,10,1000,10,1)
+mean(insects)
+prod(insects)^(1/length(insects))
+exp(mean(log(insects)))
+
+
+
