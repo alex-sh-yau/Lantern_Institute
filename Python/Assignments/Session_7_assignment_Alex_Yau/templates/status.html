@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+   <head>
+       <h1>House Lights</h1>
+   </head>
+   <body>
+      <table border = 1>
+         {% for key in listing %}
+            <tr>
+               <th> {{ key }} </th>
+            </tr>
+         {% endfor %}
+      </table>
+       
+       <form action = "http://localhost:5000/result" method = "POST">
+         <p>Enter a light to check status: <input type = "text" name = "Status">
+           <input type = "submit" value = "submit" /></p>
+      </form>
+       
+        <form action = "http://localhost:5000/result" method = "POST">
+         <p>Enter a light whose status you want to change: <input type = "text" name = "Change">
+           <input type = "submit" value = "submit" /></p>
+      </form>
+       
+   </body>
+</html>

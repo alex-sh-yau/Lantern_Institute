@@ -1,3 +1,11 @@
+weather = read.csv("C:\\Users\\alexy\\Desktop\\Repositories\\Lantern\\Statistics_R\\Data\\weather.data.csv")
+
+
+attach(weather)
+a <- weather[which(rain>10 & month == 1),]
+mean(a$lower)
+detach(weather)
+
 yields = read.csv("C:\\Users\\alexy\\Desktop\\Repositories\\Lantern\\Statistics_R\\Data\\fertyield.csv")
 
 attach(yields)
@@ -17,6 +25,9 @@ data = read.csv("C:\\Users\\alexy\\Desktop\\Repositories\\Lantern\\Statistics_R\
 
 attach(data)
 head(data)
+typeof(x)
+class(x)
+
 plot(x, y, pch=23, bg="red", col="black", cex=0.5)
 plot(x, y, pch=17, col="red")
 plot(x, y, pch=">", col="blue")
